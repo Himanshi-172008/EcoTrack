@@ -1,2 +1,11 @@
 # EcoTrack
-EcoTrack is a climate awareness app with a home screen offering access to an Eco Score quiz ( 5 habit questions with scoring), a 10-question climate quiz with instant feedback, 5 climate facts with external links, and 6 practical sustainability tips—all designed with a modern green theme to inspire environmental action.
+EcoTrack is a climate awareness mobile app developed using React Native. 
+It includes an Eco Score system based on daily habits, an interactive quiz with instant feedback, climate facts with external resources, and practical sustainability tips.
+
+I customized the app by improving the UI design, modifying quiz logic, adding new questions, and enhancing user interaction features.
+Features:
+- Eco Score calculator based on user habits
+- Climate quiz with score tracking
+- Informational climate facts with links
+- Daily eco-friendly tips
+- Clean and modern UI design
